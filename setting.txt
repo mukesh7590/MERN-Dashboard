@@ -1,0 +1,8 @@
+
+Backend Commands :
+1. npm init -y 
+2. npm i express body-parser cors dotenv helmet morgan mongoose nodemon
+
+Frontend Commands :
+1. npx create-react-app client
+2. npm i react-redux @reduxjs/toolkit react-datepicker react-router-dom@6 @mui/material @emotion/react @emotion/styled @mui/icons-material @mui/x-data-grid @nivo/core @nivo/bar @nivo/geo @nivo/pie
